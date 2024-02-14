@@ -17,7 +17,7 @@ const Niveles = () => {
         className={classes.button}
         variant={"contained"}
         value={"Principiante"}
-        href={"/principiante"}
+        href={"/Principiante"}
       ></Button>
       <Button
         className={classes.button}

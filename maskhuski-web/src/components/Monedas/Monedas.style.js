@@ -2,7 +2,8 @@ import { createUseStyles } from "react-jss";
 
 export const useStyles = createUseStyles({
   table: {
-    width: "100%",
+    width: "50%",
+    margin: "auto",
   },
   tableCell: {
     border: "1px solid #000",
@@ -10,8 +11,8 @@ export const useStyles = createUseStyles({
     textAlign: "center",
   },
   img: {
-    width: "50px",
-    height: "50px",
+    width: "70px",
+    height: "70px",
   },
   monedaContainer: {
     display: "flex",
